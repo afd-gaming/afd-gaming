@@ -1,0 +1,31 @@
+{
+    "m_Version": 5,
+    "m_ZoneName": "Svetloyarsk",
+    "m_DisplayName": "Svetloyarsk Trading Zone",
+    "Position": [
+        14377.099609375,
+        4.099999904632568,
+        13272.900390625
+    ],
+    "Radius": 500.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {
+        "hook": 99,
+        "mackerel": 99,
+        "expansionlhd": 99,
+        "fishingrod": 99,
+        "expansionutilityboat": 99,
+        "worm": 99,
+        "sardines": 99,
+        "canistergasoline": 99,
+        "truckbattery": 99,
+        "expansionzodiacboat": 99,
+        "headlighth7": 99,
+        "glowplug": 99,
+        "bonehook": 99,
+        "expansioncarkey": 99,
+        "headlighth7_box": 99,
+        "carp": 99
+    }
+}

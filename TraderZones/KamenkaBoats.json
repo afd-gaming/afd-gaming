@@ -1,0 +1,24 @@
+{
+    "m_Version": 5,
+    "m_ZoneName": "KamenkaBoats",
+    "m_DisplayName": "Kamenka Boats Trading Zone",
+    "Position": [
+        1756.0999755859376,
+        2.200000047683716,
+        2025.469970703125
+    ],
+    "Radius": 100.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {
+        "truckbattery": 99,
+        "expansionzodiacboat": 99,
+        "headlighth7": 99,
+        "expansionlhd": 99,
+        "glowplug": 99,
+        "expansioncarkey": 99,
+        "headlighth7_box": 99,
+        "expansionutilityboat": 99,
+        "canistergasoline": 99
+    }
+}
